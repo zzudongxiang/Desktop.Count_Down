@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDown", "CountDown\CountDown.csproj", "{AC9B8459-20CA-4444-93F8-7960CCE4ACE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDown(Control)", "CountDown(Control)\CountDown(Control).csproj", "{17100340-76F4-4DB5-8CB7-FB7C6F09BE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9B8459-20CA-4444-93F8-7960CCE4ACE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9B8459-20CA-4444-93F8-7960CCE4ACE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9B8459-20CA-4444-93F8-7960CCE4ACE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9B8459-20CA-4444-93F8-7960CCE4ACE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17100340-76F4-4DB5-8CB7-FB7C6F09BE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17100340-76F4-4DB5-8CB7-FB7C6F09BE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17100340-76F4-4DB5-8CB7-FB7C6F09BE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17100340-76F4-4DB5-8CB7-FB7C6F09BE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

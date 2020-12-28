@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\CoreAudioApi.dll
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
